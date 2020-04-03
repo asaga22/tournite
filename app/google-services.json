@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438317508141",
+    "firebase_url": "https://tournite-6b1eb.firebaseio.com",
+    "project_id": "tournite-6b1eb",
+    "storage_bucket": "tournite-6b1eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438317508141:android:501270be6a0ef818",
+        "android_client_info": {
+          "package_name": "com.example.tournite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438317508141-q5mn93sc04llpf8rhuh306u0hmcvn9j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tournite",
+            "certificate_hash": "a89cb0236d960c5b54f4bf4d0ae6db6717691bb3"
+          }
+        },
+        {
+          "client_id": "438317508141-r00dmtu920perq97505bnik2ce0i3grt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzFM8g8Yvw0g75JuMyVG5Tg1lLx3UXZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438317508141-r00dmtu920perq97505bnik2ce0i3grt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
